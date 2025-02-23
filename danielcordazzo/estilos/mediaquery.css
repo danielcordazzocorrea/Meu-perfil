@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@media screen and (min-width: 650px){
+    section#eu{
+        align-items: center;
+    }
+    section{
+        width: 60vw;
+        max-width: 700px;
+    }
+}
+@media screen and (min-width: 1030px){
+    div#imgcomputador{
+        background: url(../imagens/computador.jpg);
+        width: 50%;
+        height: 100%;
+        float: right;
+        background-size: cover;
+    }
+}
