@@ -10,6 +10,9 @@
     section#eu p{
         max-width: 400px;
     }
+    .exp{
+        max-width: 600px;
+    }
     
 }
 @media screen and (min-width: 1030px){
