@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@media screen and (min-width: 800px){
+    .text{
+        width: 500px;
+        margin-left: 3vw;
+        font-size: 1em;
+    }
+    .escrita{
+        width: 400px;
+    }
+    main{
+        align-items: center;
+    }
+    .projetos{
+        width: 50vw;
+    }
+}
