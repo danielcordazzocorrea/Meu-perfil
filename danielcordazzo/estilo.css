@@ -99,13 +99,13 @@ li{
     margin: 20px;
     box-shadow: 0px 0px 10px rgba(255, 255, 255, 0.719);
     animation: image 2s;
-    margin-right: 50px;
 }
 .habilidades{
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
     margin: auto;
+    width: 100%;
 }
 .link{
     width: 250px;

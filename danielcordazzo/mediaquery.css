@@ -14,4 +14,15 @@
     .projetos{
         width: 50vw;
     }
+    .habilidades, #main_habilidades{
+        gap: 30px;
+    }
+}
+@media screen and (max-width: 510px){
+    section{
+        width: 85vw;
+    }
+    .projetos{
+        width: 85vw;
+    }
 }
