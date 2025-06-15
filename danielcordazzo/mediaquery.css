@@ -17,6 +17,10 @@
     .habilidades, #main_habilidades{
         gap: 30px;
     }
+    #zap, #git, #instagram, #brilhar{
+        width: 30vw;
+        justify-content: space-around;
+    }
 }
 @media screen and (max-width: 510px){
     section{
